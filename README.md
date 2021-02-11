@@ -412,7 +412,7 @@ Publish the website in the given URL.
 
 ![output](./static/img/validator2.png)
 
-![output](./static/img/validator3.png)
+![output](./static/img/val3.png)
 
 ![output](./static/img/validator4.png)
 
